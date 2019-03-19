@@ -1,0 +1,536 @@
+[{
+		"metrics": [{
+			"feature": "MID_LEVEL_AUTO",
+			"majority": {
+				"values": [{
+					"value": [0, 0],
+					"distribution": {
+						"0": [{
+							"count": 700,
+							"label": "NOT_BUY",
+							"is_favourable": "FALSE"
+						}, {
+							"count": 300,
+							"label": "BUY",
+							"is_favourable": "True"
+						}]
+					},
+					"fav_class_percent": 30.0
+				}],
+				"total_fav_percent": 30.0,
+				"total_rows_percent": 30.0
+			},
+			"minority": {
+				"values": [{
+					"value": [1, 1],
+					"is_biased": "False",
+					"distribution": {
+						"1": [{
+							"count": 700,
+							"label": "NOT_BUY",
+							"is_favourable": "False"
+						}, {
+							"count": 300,
+							"label": "BUY",
+							"is_favourable": "True"
+						}]
+					},
+					"fairness_value": 1.00,
+					"fav_class_percent": 30.0
+				}],
+				"total_fav_percent": 30.0,
+				"total_rows_percent": 30.0
+			},
+			"bias_source": {
+				"values": []
+			}
+		}],
+		"score_type": "desperate impact",
+		"response_time": "16.429616",
+		"rows_analyzed": 200,
+		"perturbed_data_size": 400,
+		"manual_labelling_store": "Manual_Labeling_1dfb5ad1-0b94-47da-a0af-3216c79cecb3"
+	},
+	{
+		"metrics": [{
+			"feature": "MID_LEVEL_AUTO",
+			"majority": {
+				"values": [{
+					"value": [0, 0],
+					"distribution": {
+						"0": [{
+							"count": 650,
+							"label": "NOT_BUY",
+							"is_favourable": "FALSE"
+						}, {
+							"count": 350,
+							"label": "BUY",
+							"is_favourable": "True"
+						}]
+					},
+					"fav_class_percent": 35.0
+				}],
+				"total_fav_percent": 35.0,
+				"total_rows_percent": 35.0
+			},
+			"minority": {
+				"values": [{
+					"value": [1, 1],
+					"is_biased": "False",
+					"distribution": {
+						"1": [{
+							"count": 660,
+							"label": "NOT_BUY",
+							"is_favourable": "False"
+						}, {
+							"count": 340,
+							"label": "BUY",
+							"is_favourable": "True"
+						}]
+					},
+					"fairness_value": 0.97,
+					"fav_class_percent": 34.0
+				}],
+				"total_fav_percent": 34.0,
+				"total_rows_percent": 34.0
+			},
+			"bias_source": {
+				"values": []
+			}
+		}],
+		"score_type": "desperate impact",
+		"response_time": "16.429616",
+		"rows_analyzed": 200,
+		"perturbed_data_size": 400,
+		"manual_labelling_store": "Manual_Labeling_1dfb5ad1-0b94-47da-a0af-3216c79cecb3"
+	},
+	{
+		"metrics": [{
+			"feature": "MID_LEVEL_AUTO",
+			"majority": {
+				"values": [{
+					"value": [0, 0],
+					"distribution": {
+						"0": [{
+							"count": 625,
+							"label": "NOT_BUY",
+							"is_favourable": "FALSE"
+						}, {
+							"count": 275,
+							"label": "BUY",
+							"is_favourable": "True"
+						}]
+					},
+					"fav_class_percent": 27.5
+				}],
+				"total_fav_percent": 27.5,
+				"total_rows_percent": 27.5
+			},
+			"minority": {
+				"values": [{
+					"value": [1, 1],
+					"is_biased": "False",
+					"distribution": {
+						"1": [{
+							"count": 630,
+							"label": "NOT_BUY",
+							"is_favourable": "False"
+						}, {
+							"count": 270,
+							"label": "BUY",
+							"is_favourable": "True"
+						}]
+					},
+					"fairness_value": 0.98,
+					"fav_class_percent": 27.5
+				}],
+				"total_fav_percent": 27.5,
+				"total_rows_percent": 27.5
+			},
+			"bias_source": {
+				"values": []
+			}
+		}],
+		"score_type": "desperate impact",
+		"response_time": "16.429616",
+		"rows_analyzed": 200,
+		"perturbed_data_size": 400,
+		"manual_labelling_store": "Manual_Labeling_1dfb5ad1-0b94-47da-a0af-3216c79cecb3"
+	},
+
+	{
+		"metrics": [{
+			"feature": "MID_LEVEL_AUTO",
+			"majority": {
+				"values": [{
+					"value": [0, 0],
+					"distribution": {
+						"0": [{
+							"count": 725,
+							"label": "NOT_BUY",
+							"is_favourable": "FALSE"
+						}, {
+							"count": 275,
+							"label": "BUY",
+							"is_favourable": "True"
+						}]
+					},
+					"fav_class_percent": 27.5
+				}],
+				"total_fav_percent": 27.5,
+				"total_rows_percent": 27.5
+			},
+			"minority": {
+				"values": [{
+					"value": [1, 1],
+					"is_biased": "False",
+					"distribution": {
+						"1": [{
+							"count": 750,
+							"label": "NOT_BUY",
+							"is_favourable": "False"
+						}, {
+							"count": 250,
+							"label": "BUY",
+							"is_favourable": "True"
+						}]
+					},
+					"fairness_value": 0.91,
+					"fav_class_percent": 25.0
+				}],
+				"total_fav_percent": 25.0,
+				"total_rows_percent": 25.0
+			},
+			"bias_source": {
+				"values": []
+			}
+		}],
+		"score_type": "desperate impact",
+		"response_time": "16.429616",
+		"rows_analyzed": 200,
+		"perturbed_data_size": 400,
+		"manual_labelling_store": "Manual_Labeling_1dfb5ad1-0b94-47da-a0af-3216c79cecb3"
+	},
+
+	{
+		"metrics": [{
+			"feature": "MID_LEVEL_AUTO",
+			"majority": {
+				"values": [{
+					"value": [0, 0],
+					"distribution": {
+						"0": [{
+							"count": 750,
+							"label": "NOT_BUY",
+							"is_favourable": "FALSE"
+						}, {
+							"count": 250,
+							"label": "BUY",
+							"is_favourable": "True"
+						}]
+					},
+					"fav_class_percent": 25.0
+				}],
+				"total_fav_percent": 25.0,
+				"total_rows_percent": 25.0
+			},
+			"minority": {
+				"values": [{
+					"value": [1, 1],
+					"is_biased": "False",
+					"distribution": {
+						"1": [{
+							"count": 770,
+							"label": "NOT_BUY",
+							"is_favourable": "False"
+						}, {
+							"count": 230,
+							"label": "BUY",
+							"is_favourable": "True"
+						}]
+					},
+					"fairness_value": 0.92,
+					"fav_class_percent": 23.0
+				}],
+				"total_fav_percent": 23.0,
+				"total_rows_percent": 23.0
+			},
+			"bias_source": {
+				"values": []
+			}
+		}],
+		"score_type": "desperate impact",
+		"response_time": "16.429616",
+		"rows_analyzed": 200,
+		"perturbed_data_size": 400,
+		"manual_labelling_store": "Manual_Labeling_1dfb5ad1-0b94-47da-a0af-3216c79cecb3"
+	},
+
+	{
+		"metrics": [{
+			"feature": "MID_LEVEL_AUTO",
+			"majority": {
+				"values": [{
+					"value": [0, 0],
+					"distribution": {
+						"0": [{
+							"count": 710,
+							"label": "NOT_BUY",
+							"is_favourable": "FALSE"
+						}, {
+							"count": 290,
+							"label": "BUY",
+							"is_favourable": "True"
+						}]
+					},
+					"fav_class_percent": 29.0
+				}],
+				"total_fav_percent": 29.0,
+				"total_rows_percent": 29.0
+			},
+			"minority": {
+				"values": [{
+					"value": [1, 1],
+					"is_biased": "False",
+					"distribution": {
+						"1": [{
+							"count": 700,
+							"label": "NOT_BUY",
+							"is_favourable": "False"
+						}, {
+							"count": 300,
+							"label": "BUY",
+							"is_favourable": "True"
+						}]
+					},
+					"fairness_value": 1.03,
+					"fav_class_percent": 30.0
+				}],
+				"total_fav_percent": 30.0,
+				"total_rows_percent": 30.0
+			},
+			"bias_source": {
+				"values": []
+			}
+		}],
+		"score_type": "desperate impact",
+		"response_time": "16.429616",
+		"rows_analyzed": 200,
+		"perturbed_data_size": 400,
+		"manual_labelling_store": "Manual_Labeling_1dfb5ad1-0b94-47da-a0af-3216c79cecb3"
+	},
+
+	{
+		"metrics": [{
+			"feature": "MID_LEVEL_AUTO",
+			"majority": {
+				"values": [{
+					"value": [0, 0],
+					"distribution": {
+						"0": [{
+							"count": 740,
+							"label": "NOT_BUY",
+							"is_favourable": "FALSE"
+						}, {
+							"count": 260,
+							"label": "BUY",
+							"is_favourable": "True"
+						}]
+					},
+					"fav_class_percent": 26.0
+				}],
+				"total_fav_percent": 26.0,
+				"total_rows_percent": 26.0
+			},
+			"minority": {
+				"values": [{
+					"value": [1, 1],
+					"is_biased": "False",
+					"distribution": {
+						"1": [{
+							"count": 710,
+							"label": "NOT_BUY",
+							"is_favourable": "False"
+						}, {
+							"count": 290,
+							"label": "BUY",
+							"is_favourable": "True"
+						}]
+					},
+					"fairness_value": 1.12,
+					"fav_class_percent": 29.0
+				}],
+				"total_fav_percent": 29.0,
+				"total_rows_percent": 29.0
+			},
+			"bias_source": {
+				"values": []
+			}
+		}],
+		"score_type": "desperate impact",
+		"response_time": "16.429616",
+		"rows_analyzed": 200,
+		"perturbed_data_size": 400,
+		"manual_labelling_store": "Manual_Labeling_1dfb5ad1-0b94-47da-a0af-3216c79cecb3"
+	},
+
+	{
+		"metrics": [{
+			"feature": "MID_LEVEL_AUTO",
+			"majority": {
+				"values": [{
+					"value": [0, 0],
+					"distribution": {
+						"0": [{
+							"count": 720,
+							"label": "NOT_BUY",
+							"is_favourable": "FALSE"
+						}, {
+							"count": 280,
+							"label": "BUY",
+							"is_favourable": "True"
+						}]
+					},
+					"fav_class_percent": 28.0
+				}],
+				"total_fav_percent": 28.0,
+				"total_rows_percent": 28.0
+			},
+			"minority": {
+				"values": [{
+					"value": [1, 1],
+					"is_biased": "False",
+					"distribution": {
+						"1": [{
+							"count": 700,
+							"label": "NOT_BUY",
+							"is_favourable": "False"
+						}, {
+							"count": 300,
+							"label": "BUY",
+							"is_favourable": "True"
+						}]
+					},
+					"fairness_value": 1.07,
+					"fav_class_percent": 30.0
+				}],
+				"total_fav_percent": 30.0,
+				"total_rows_percent": 30.0
+			},
+			"bias_source": {
+				"values": []
+			}
+		}],
+		"score_type": "desperate impact",
+		"response_time": "16.429616",
+		"rows_analyzed": 200,
+		"perturbed_data_size": 400,
+		"manual_labelling_store": "Manual_Labeling_1dfb5ad1-0b94-47da-a0af-3216c79cecb3"
+	},
+	{
+		"metrics": [{
+			"feature": "MID_LEVEL_AUTO",
+			"majority": {
+				"values": [{
+					"value": [0, 0],
+					"distribution": {
+						"0": [{
+							"count": 720,
+							"label": "NOT_BUY",
+							"is_favourable": "FALSE"
+						}, {
+							"count": 280,
+							"label": "BUY",
+							"is_favourable": "True"
+						}]
+					},
+					"fav_class_percent": 48.7
+				}],
+				"total_fav_percent": 48.0,
+				"total_rows_percent": 48.0
+			},
+			"minority": {
+				"values": [{
+					"value": [1, 1],
+					"is_biased": "False",
+					"distribution": {
+						"1": [{
+							"count": 750,
+							"label": "NOT_BUY",
+							"is_favourable": "False"
+						}, {
+							"count": 250,
+							"label": "BUY",
+							"is_favourable": "True"
+						}]
+					},
+					"fairness_value": 0.89,
+					"fav_class_percent": 25.0
+				}],
+				"total_fav_percent": 25.0,
+				"total_rows_percent": 25.0
+			},
+			"bias_source": {
+				"values": []
+			}
+		}],
+		"score_type": "desperate impact",
+		"response_time": "16.429616",
+		"rows_analyzed": 200,
+		"perturbed_data_size": 400,
+		"manual_labelling_store": "Manual_Labeling_1dfb5ad1-0b94-47da-a0af-3216c79cecb3"
+	},
+	{
+		"metrics": [{
+			"feature": "MID_LEVEL_AUTO",
+			"majority": {
+				"values": [{
+					"value": [0, 0],
+					"distribution": {
+						"0": [{
+							"count": 730,
+							"label": "NOT_BUY",
+							"is_favourable": "FALSE"
+						}, {
+							"count": 270,
+							"label": "BUY",
+							"is_favourable": "True"
+						}]
+					},
+					"fav_class_percent": 27.0
+				}],
+				"total_fav_percent": 27.0,
+				"total_rows_percent": 77.0
+			},
+			"minority": {
+				"values": [{
+					"value": [1, 1],
+					"is_biased": "False",
+					"distribution": {
+						"1": [{
+							"count": 700,
+							"label": "NOT_BUY",
+							"is_favourable": "False"
+						}, {
+							"count": 300,
+							"label": "BUY",
+							"is_favourable": "True"
+						}]
+					},
+					"fairness_value": 1.11,
+					"fav_class_percent": 30.0
+				}],
+				"total_fav_percent": 30,
+				"total_rows_percent": 30.0
+			},
+			"bias_source": {
+				"values": []
+			}
+		}],
+		"score_type": "desperate impact",
+		"response_time": "16.429616",
+		"rows_analyzed": 200,
+		"perturbed_data_size": 400,
+		"manual_labelling_store": "Manual_Labeling_1dfb5ad1-0b94-47da-a0af-3216c79cecb3"
+	}
+]
